@@ -1,7 +1,4 @@
 # Drink-Water-Reminder
-<p align="center">
-  <img src="/images/Drink_Water_Reminder_Logo.gif" alt="animated" width="250" height="250" />
-</p>
 
 ### If you something forget to drink water because you're busy, this application is the best for you!
 
