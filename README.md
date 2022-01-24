@@ -8,7 +8,7 @@ You're free to contribute and you just need to give your scripts written in pyth
 
 ### Prerequisites
 
-The things you need before installing the software.
+The things you need before started.
 
 * python 3.x
 * flake8
