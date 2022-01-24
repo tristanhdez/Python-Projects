@@ -2,7 +2,7 @@
 <img src="https://github.com/tristanHdez18/Python-Projects/blob/main/thank-you-contributing.png?raw=true">
 </p>
 
-#### Hey! :smile:
+## Hey! :smile:
 
 Thank you so much for take your time to contribute here!
 We're so active and contributes are welcome!
