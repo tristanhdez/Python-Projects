@@ -9,10 +9,11 @@
 # Installation
 
 ```
-git clone https://github.com/tristanHdez18/Drink-Water-Reminder
+pip install -r requirements.txt
 ```
+### To run
 
-and then you need to put the next command:
+You need to put the next command to run background:
 
 For **Windows**:
 ```
@@ -22,4 +23,9 @@ pythonw .\main.py
 For **Linux**:
 ```
 python3 main.py&
+```
+
+or run:
+```
+python3 main.py
 ```
