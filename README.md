@@ -16,4 +16,6 @@ The things you need before installing the software.
 
 ## Developing   
 
+Contributions welcome :smile:
+
 Please, see CONTRIBUTING.md
