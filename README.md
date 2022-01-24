@@ -1,6 +1,6 @@
 # Python Projects
 
-Python Project is an Open Source to enhance your python skills.
+Python Project is Open Source to enhance your python skills.
 
 ## Getting Started
 
